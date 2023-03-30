@@ -1,0 +1,9 @@
+# Before
+REPOSITORY   TAG       IMAGE ID       CREATED         SIZE
+frontend     latest    4f954962c32f   2 minutes ago   1.28GB
+backend      latest    0d9cfd5cff53   47 hours ago    1.07GB
+
+# After
+REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
+frontend     latest    8aad439b4739   3 minutes ago    1.28GB
+backend      latest    53758e7e7ef3   12 seconds ago   1.07GB

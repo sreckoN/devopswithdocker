@@ -1,0 +1,9 @@
+# Before
+REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
+frontend     latest    8aad439b4739   3 minutes ago    1.28GB
+backend      latest    53758e7e7ef3   12 seconds ago   1.07GB
+
+# After
+REPOSITORY   TAG       IMAGE ID       CREATED             SIZE
+frontend-alpine     latest    f3b14cb80327   58 minutes ago      468MB
+backend-alpine      latest    710b0815e37b   18 seconds ago      448MB

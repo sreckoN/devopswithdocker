@@ -1,0 +1,7 @@
+# Before
+REPOSITORY   TAG       IMAGE ID       CREATED          SIZE
+backend      alpine    710b0815e37b   18 seconds ago   448MB
+
+# After
+REPOSITORY        TAG                 IMAGE ID       CREATED          SIZE
+backend           alpine-multistage   d4b86450bd6f   2 minutes ago    18.1MB

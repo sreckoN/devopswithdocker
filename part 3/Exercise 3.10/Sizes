@@ -1,0 +1,7 @@
+# Before
+REPOSITORY    TAG            IMAGE ID       CREATED          SIZE
+express-app   latest         1ce9d6471a36   14 minutes ago   915MB
+
+# After
+REPOSITORY    TAG            IMAGE ID       CREATED          SIZE
+express-app   alpine-multi   942e55c79c45   21 seconds ago   121MB
